@@ -1,0 +1,348 @@
+body {
+  background-image: url(al.png)
+}
+#logo {
+  color: aliceblue;
+  text-align: center
+} 
+p {
+  color: black;
+}
+h2 {
+  font-weight: bold;
+  color: aliceblue;
+}
+h1{
+  color: aliceblue
+}
+img {
+  height: 50px;
+  display: block;
+  margin: auto;
+}
+table, tr, th, td {
+  border: 1px solid aliceblue;
+  color: aliceblue;
+  border-collapse: collapse;
+  width: 1200px;
+  
+}
+a {
+  border-style: solid;
+   border-color:;
+  border-radius:7px;
+  background-color:#7be2b2;
+  padding: 5px;
+  text-decoration: none;
+  color: black;
+  border-color: #277440
+}
+
+.rayta {
+  text-align: center;
+}
+.lol{
+  width: 650;
+  height: 450;
+  margin: 0px;
+  border-color: aliceblue;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 0px
+  display: block;
+  margin: auto;
+}
+.bust{
+  text-align: center;
+}
+.calo {
+  
+  width: 65;
+  margin: 0px;
+  border-color: aliceblue;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 0px;
+}
+.salo{
+  width: 65;
+  margin: 0px;
+  border-color: aliceblue;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 0px;
+}
+.mal {
+  width: 70;
+  margin: 0px;
+  border-color: aliceblue;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 0px;
+  
+}
+.cal {
+  width: 80;
+  margin: 0px;
+  border-color: aliceblue;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 0px;
+}
+.al{
+  height: 50;
+  width:65;
+  margin: 0px;
+  border-color: aliceblue;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 0px;
+}
+.ball {
+  height: 50;
+  width:65;
+  margin: 0px;
+  border-color: aliceblue;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 0px;
+}
+.call {
+  height: 50;
+  width:70;
+  margin: 0px;
+  border-color: aliceblue;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 0px;
+}
+  .lavender {
+    height: 50;
+    width:70;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px;
+  }
+.orchid {
+    height: 50;
+    width:70;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px;
+}
+.mod {
+    height: 50;
+    width:85;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px;
+}
+.misto {
+    height: 50;
+    width:55;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px;
+}
+.roald {
+    height: 50;
+    width:60;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px
+}
+.lato {
+    height: 50;
+    width:85;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px
+}
+.mode {
+    height: 50;
+    width: 55px;;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px
+}
+.mido {
+    height: 50;
+    width: 65px;;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px 
+}
+.difo {
+    height: 50;
+    width: 60px;;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px
+}
+.mata {
+    height: 50;
+    width: 55px;;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px
+}
+.calte {
+    height: 50;
+    width: 70px;;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px
+}
+.mom {
+    height: 50;
+    width: 65px;;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px
+}
+.dad {
+    height: 50;
+    width: 55px;;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px
+}
+.mer {
+    height: 50;
+    width: 70px;;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px
+}
+.dont {
+    height: 50;
+    width: 65px;;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px
+}
+.latte {
+    height: 50;
+    width: 55px;;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px
+}
+.corn {
+    height: 50;
+    width: 75px;;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px
+}
+.megha {
+    height: 50;
+    width: 85px;;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px
+}
+.doc {
+    height: 50;
+    width: 55px;;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px
+}
+.laro {
+    height: 50;
+    width: 65px;;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px
+}
+.taro{
+    height: 50;
+    width: 65px;;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px
+}
+.maro {
+    height: 50;
+    width: 75px;;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px
+}
+.baro {
+    height: 50;
+    width: 75px;;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px
+}
+.caro {
+    height: 50;
+    width: 65px;;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px
+} 
+.daro {
+    height: 50;
+    width: 65px;;
+    margin: 0px;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 0px
+}
+
+p {
+    color: aliceblue;
+    text-align: center;
+}
